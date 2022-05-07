@@ -27,3 +27,4 @@ string User::getEmail() {
 User::User(string _username, string _password, string _email):username(_username),password(_password),email(_email) {
 
 }
+
